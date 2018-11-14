@@ -34,6 +34,8 @@ class Index extends Component {
 
   componentDidShow () {
     console.log(process.env.TARO_ENV)
+    console.log(version)
+    console.log(HOST)
   }
 
   componentDidHide () { }

@@ -1,4 +1,4 @@
-const envConfig = require('./evnConfig')
+const envConfig = require('./envConfig')
 
 const config = {
   projectName: 'taroRedux',
